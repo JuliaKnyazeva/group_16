@@ -2,6 +2,10 @@ Hello world
 
 And hello world
 
+<<<<<<< HEAD
 And and and Hello world
 
 And and and and Hello world
+=======
+Changes for branch_3
+>>>>>>> branch_2
